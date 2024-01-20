@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav {
+    padding:10px;
+   background-color: aliceblue;
+   height: 40px;
+}
+.navi{
+    display: flex;
+    margin:3px 60px;
+    justify-content: space-between;
+}
+
+.navi li{
+    margin-right: 60px;
+    
+}
+
+li{
+    list-style-type: none;  
+}
+
+.navi li a{
+    color: rgb(255, 0, 238);
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.searchbar{
+    width:22rem;
+    height:33px;
+    border: 2px solid violet;
+  border-radius: 67px;
+  padding:10px
+}
+
+::placeholder {
+    color: red;
+    font-size: 20px;
+  }
+
+.logo{
+    width:20px;
+}
