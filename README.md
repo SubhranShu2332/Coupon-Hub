@@ -19,7 +19,7 @@ CouponHub is an innovative coupon-sharing platform aimed at optimizing consumer 
 To get started with CouponHub, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/CouponHub.git
+git clone https://github.com/SubhranShu2332/Coupon-Hub
 
 
 2. Navigate to the project directory:
@@ -49,6 +49,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions regarding CouponHub, feel free to contact us at [email@example.com](mailto:email@example.com).
+If you have any questions or suggestions regarding CouponHub, feel free to contact us at [whiteunicorn1947@gmail.com](mailto:whiteunicorn1947@gmail.com).
 
 Happy saving! 🛍️
